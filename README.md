@@ -2,9 +2,9 @@
 
 <img src="./assets/pedals.png" width="280">
 
-# Audio Effects Research
+# AFx Research
 
-### **Scientific literature about Audio Effects**
+#### _scientific literature about audio effects_
 
 ![Static Badge](https://img.shields.io/badge/classification-red?style=for-the-badge&color=%23f94144)
 ![Static Badge](https://img.shields.io/badge/estimation-blue?style=for-the-badge&color=%23f3722c)
@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/style_transfer-cornflowerblue?style=for-the-badge&color=%2343aa8b)
 ![Static Badge](https://img.shields.io/badge/reviews-palevioletred?style=for-the-badge&color=%23577590)
 
-[Paper](https://zenodo.org/records/13380393) | [Website](https://mcomunita.github.io/AFX-Research)
+[Paper](https://zenodo.org/records/13380393) | [Website](https://mcomunita.github.io/afx-research)
 
 [Marco Comunità](https://mcomunita.github.io/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)
 
@@ -23,11 +23,31 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 </div>
 
 ---
+## Citation
+
+If you find this project useful, please consider citing us:
+
+```BibTex
+@article{comunita2024afx,
+  title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
+  author={Comunita, Marco and Reiss, J},
+  year={2024}
+}
+```
+
+---
+## Support
+
+To show your support please consider giving this repo a star :star:.
+
+Thanks! :metal:
+
+---
 ## Project
 
 This repo is used to manage a database of scientific literature hosted at:
 
-[https://mcomunita.github.io/AFX-Research](https://mcomunita.github.io/AFX-Research)
+[https://mcomunita.github.io/afx-research](https://mcomunita.github.io/afx-research)
 
 please note the link will redirect you to a Notion :tm: web page
 
@@ -44,25 +64,7 @@ The papers are on topics like:
 - approaches based on: neural networks, differentiable digital signal processing, waveshaping, wave digital filters, dynamic convolution, Wiener-Hammerstein models, Volterra series, State-spaces...
 - literature reviews
 
----
-## Citation
 
-If you find this project useful to your research, please consider citing this:
-
-```BibTex
-@article{comunita2024afx,
-  title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
-  author={Comunita, Marco and Reiss, J},
-  year={2024}
-}
-```
-
----
-## Support
-
-To show your support please consider giving this repo a star.
-
-Thanks!
 
 ---
 ## Contributions

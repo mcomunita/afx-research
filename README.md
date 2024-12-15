@@ -25,7 +25,7 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 ---
 ## Citation
 
-If you find this project useful, please consider citing us:
+If you find this work useful, please consider citing us:
 
 ```BibTex
 @article{comunita2024afx,

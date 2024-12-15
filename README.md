@@ -4,7 +4,7 @@
 
 # AFx Research
 
-### _scientific literature about audio effects_
+#### _scientific literature about audio effects_
 
 ![Static Badge](https://img.shields.io/badge/classification-red?style=for-the-badge&color=%23f94144)
 ![Static Badge](https://img.shields.io/badge/estimation-blue?style=for-the-badge&color=%23f3722c)

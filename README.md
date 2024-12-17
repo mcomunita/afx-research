@@ -2,7 +2,7 @@
 
 <img src="./assets/pedals.png" width="280">
 
-# AFx Research
+# AFxResearch
 
 ### _scientific literature about audio effects_
 

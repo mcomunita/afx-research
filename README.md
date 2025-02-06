@@ -28,10 +28,10 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 If you find this work useful, please consider citing us:
 
 ```BibTex
-@article{comunita2024afx,
-  title={AFX-Research: an Extensive and Flexible Repository of Research about Audio Effects},
-  author={Comunita, Marco and Reiss, J},
-  year={2024}
+@inproceedings{comunita19afxresearch,
+  title={AFxResearch: a repository and website of audio effects research},
+  author={Comunita, Marco and Reiss, Joshua D},
+  booktitle={DMRN+ 19: Digital Music Research Network One-day Workshop 2024}
 }
 ```
 

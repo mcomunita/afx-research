@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/style_transfer-cornflowerblue?style=for-the-badge&color=%2343aa8b)
 ![Static Badge](https://img.shields.io/badge/reviews-palevioletred?style=for-the-badge&color=%23577590)
 
-[Paper](https://zenodo.org/records/13380393) | [Website](https://mcomunita.github.io/afx-research)
+[Paper]([https://zenodo.org/records/13380393](https://www.qmul.ac.uk/dmrn/media/dmrn/DMRN-19-proceedings--January.pdf#page=12)) | [Website](https://mcomunita.github.io/afx-research)
 
 [Marco Comunità](https://mcomunita.github.io/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)
 
